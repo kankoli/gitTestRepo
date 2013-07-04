@@ -1,3 +1,5 @@
 doc2 is the second of the two documents. The first one is called doc1.
 
 branch1 added this (conflicting?) line
+
+branch3 added this line
